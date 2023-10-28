@@ -1,7 +1,8 @@
 # PRODIGY_WD_02
-Stop Watch Web application using HTML,CSS and Javascript
+Stop Watch Web application
 
 ## Description
+Technologies Used: HTML,CSS & Javscript
 HTML is used to structure the elements of the application. 
 By implementing functions for starting, pausing, and resetting the stopwatch, as well as tracking and displaying lap times,
 users can accurately measure and record time intervals.
