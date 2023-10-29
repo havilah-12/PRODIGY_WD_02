@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins:wght@300&display=swap" rel="stylesheet">
+    <title>Stopwatch</title>
+    <link rel="stylesheet" href="style.css">
+   
+</head>
+<body>
+  
+    <div class="container"> 
+        <div class="timer-display">00:00:00:00
+          
+        </div>
+        <ul class="laps"></ul>
+        <div class="action">
+            <button id="startTimer" onclick="start()">START</button>
+            <button id="pauseTimer" onclick="pause()">PAUSE</button>
+            <button id="resetTimer" onclick="reset()">RESET</button>
+            <button id="restartTimer" onclick="restart()">RESTART</button>
+            <button id="lap"  onclick="lap()">LAP</button>
+            <button id="resetLap" onclick="resetlaps()">RESET LAPS</button>
+        </div>
+    </div>
+<script src="app.js"></script>           
+</body>
+</html>
