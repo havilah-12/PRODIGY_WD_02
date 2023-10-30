@@ -2,10 +2,11 @@
 Stop Watch Web application
 
 ## Description
-Technologies Used: HTML,CSS & Javscript
-HTML is used to structure the elements of the application. 
-By implementing functions for starting, pausing, and resetting the stopwatch, as well as tracking and displaying lap times,
+Technologies Used: HTML,CSS & Javscript.
+HTML is used to structure the elements of the application and used CSS for styling.
+By using Javascript, implemented functions for starting, pausing, and resetting the stopwatch, as well as tracking and displaying lap times.
 users can accurately measure and record time intervals.
+This is my task 2 in Web development Internship.
 
 ## Contributing
 I feel thankful and motivated for the contributions! Here are some ways you can get started:
