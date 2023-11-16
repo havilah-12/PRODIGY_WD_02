@@ -8,6 +8,9 @@ By using Javascript, implemented functions for starting, pausing, and resetting 
 users can accurately measure and record time intervals.
 This is my task 2 in Web development Internship.
 
+## Sections
+Start,Pause,Reset,Restart,Lap,Reset Laps
+
 ## Contributing
 I feel thankful and motivated for the contributions! Here are some ways you can get started:
 1. Report bugs: If you encounter any bugs, please let us know. Open up an issue and let us know the problem.
