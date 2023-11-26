@@ -6,6 +6,7 @@ Technologies Used: HTML,CSS & Javscript.
 HTML is used to structure the elements of the application and used CSS for styling.
 By using Javascript, implemented functions for starting, pausing, and resetting the stopwatch, as well as tracking and displaying and resetting lap times.
 users can accurately measure and record time intervals.
+My LikendIn : https://www.linkedin.com/in/havilah12/
 
 ## Sections
 Start, Pause, Reset, Restart, Lap, Reset Laps
