@@ -1,8 +1,6 @@
 # PRODIGY_WD_02
 Stop Watch Web application
-![Uploading image.png…]()
-
-
+![Screenshot 2023-11-26 210048](https://github.com/havilah-12/PRODIGY_WD_02/assets/142531190/7c732d15-d4bc-45ca-a1ab-c3ae64c2ad12)
 
 ## Description
 Technologies Used: HTML,CSS & Javscript.
